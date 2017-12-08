@@ -1,6 +1,13 @@
-add()
+var a, b
+
+function add() {
+  returns `a+b`
+}
+
 subtract()
+
 multiply()
+
 divide()
 
 inc(n)
