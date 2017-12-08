@@ -3,4 +3,5 @@ subtract()
 multiply()
 divide()
 
-var number = 5
+inc(n)
+dec(n)
