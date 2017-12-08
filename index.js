@@ -3,8 +3,8 @@ beforeEach(function() {
   b = Math.floor(Math.random() * 1000)
 })
 
-function add() {
-  return parseInt(a) + parseInt(b)
+function add(a, b) {
+  return a+b
 }
 
 subtract()
