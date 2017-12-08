@@ -1,5 +1,5 @@
 var a = 5
-b = 10
+var b = 10
 
 function add() {
   return a + b
