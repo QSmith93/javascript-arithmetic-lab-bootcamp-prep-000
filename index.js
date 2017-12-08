@@ -17,7 +17,10 @@ function divide(a, b) {
 function inc(n) {
   return ++n
 }
-dec(n)
+
+function dec(n) {
+  return --n
+}
 
 makeInt(n)
 preserveDecimal(n)
