@@ -4,7 +4,7 @@ beforeEach(function() {
 })
 
 function add() {
-  return parseInt(a + b)
+  return parseInt(a) + parseInt(b)
 }
 
 subtract()
